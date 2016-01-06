@@ -3,6 +3,8 @@
   "dependencies": {},
   "devDependencies": {
     "express": "^4.13.3",
+    "grunt": "^0.4.5",
+    "grunt-serve": "^0.1.6",
     "vhost": "^3.0.2"
   }
 }
